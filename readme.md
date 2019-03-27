@@ -1,4 +1,5 @@
 # Playing Ping-Pong
+Implement policy gradient technology in reinforcement learning to teach computer to play the ping-pong.
 ![Alt Text](https://github.com/thick0605/Ping-Pong/blob/master/example/pong.gif?raw=true)
 
 ## Requirements
